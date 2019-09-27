@@ -1,0 +1,5 @@
+1.git下载测试用于更新HXYFramework包
+2.Json解析扩展，Json包可以放入子文件夹plugins中
+3.编辑器扩展 XML,Json 根据数据实体可视化录入数据
+4.ExcelReader读写尝试
+5.Excel编辑器扩展 转XML JSON格式
